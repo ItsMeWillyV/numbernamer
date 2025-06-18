@@ -1,6 +1,6 @@
 {
   "name": "numbernamer",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "Name large numbers up to 10e30000!",
   "main": "index.js",
   "scripts": {
@@ -13,5 +13,13 @@
     "Numbers"
   ],
   "author": "DatGamerAgainYT",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ItsMeWillyV/numbernamer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ItsMeWillyV/numbernamer/issues"
+  },
+  "homepage": "https://github.com/ItsMeWillyV/numbernamer#readme"
 }
