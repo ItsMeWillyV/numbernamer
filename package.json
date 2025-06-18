@@ -1,0 +1,17 @@
+{
+  "name": "numbernamer",
+  "version": "1.0.1",
+  "description": "Name large numbers up to 10e30000!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Large",
+    "Numbers",
+    "Naming",
+    "Numbers"
+  ],
+  "author": "DatGamerAgainYT",
+  "license": "MIT"
+}
